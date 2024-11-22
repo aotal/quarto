@@ -1,0 +1,8 @@
+---
+title: "Enlaces"
+---
+
+Material del curso "Introducció a les oportunitats i perills de la IA en la recerca mèdica i la pràctica clínica"
+
+[Colab](https://colab.research.google.com/drive/1Y1uWnLYlDgnPjJiFSd4FezhonMZkMeK-?usp=sharing)
+[Hugging Face](https://huggingface.co/)
